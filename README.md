@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ⚡ Calculadora de Consumo de Energia
+
+## 📌 Objetivo
+Este projeto calcula o consumo mensal de energia elétrica de um aparelho.
+
+## 🧠 Linguagem
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+## ⚙️ Fórmula
+consumo = (potência × horas por dia × 30) / 1000
+
+## ▶️ Como executar
+1. Abra o terminal
+2. Execute:
+   python app.py
+
+## 💡 Exemplo
+Aparelho: Geladeira  
+Consumo estimado: 45 kWh/mês  
+
+## 💰 Extra
+Também calcula o custo estimado com base em R$0,75 por kWh.
+
+## 🚀 Tecnologias
+- Python 🐍
+- GitHub 🌐
+- Energia ⚡
